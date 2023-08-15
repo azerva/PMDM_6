@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Podometro</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+
+    <string name="msnSensorNull">No se ha detectado el sensor de movimiento en este dispositivo</string>
+    <string name="msnStartCounter">Iniciando conteo de pasos</string>
+    <string name="resetCounter">Pulsación prolongada en el contador para reiniciar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
